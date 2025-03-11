@@ -14,7 +14,8 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>sscgi_emsigner_webhook</RootNamespace>
     <AssemblyName>sscgi-emsigner_webhook</AssemblyName>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+
 
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
