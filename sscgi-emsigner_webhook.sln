@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sscgi-emsigner_webhook", "sscgi-emsigner_webhook.csproj", "{BA2425E1-93D0-4EBD-B3DE-9DCC8826B8DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2425E1-93D0-4EBD-B3DE-9DCC8826B8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2425E1-93D0-4EBD-B3DE-9DCC8826B8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2425E1-93D0-4EBD-B3DE-9DCC8826B8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2425E1-93D0-4EBD-B3DE-9DCC8826B8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8568EA6-FB3D-4AF8-99E2-476EA60589AE}
+	EndGlobalSection
+EndGlobal
